@@ -38,7 +38,7 @@ function SubmissionHistory() {
   };
 
   return (
-    <div style={{ height: 400, width: "100%" }}>
+    <div style={{ height: 400, width: "100%", padding: 10 }}>
       <div
         style={{
           display: "flex",
