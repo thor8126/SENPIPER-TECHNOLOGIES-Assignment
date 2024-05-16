@@ -1,8 +1,36 @@
-# React + Vite
+## Tech Stack
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- **React.js**
 
-Currently, two official plugins are available:
+## Hosted URL-
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```
+https://senpiper-technologies-assignment.vercel.app/
+
+```
+
+## Getting started guide for local development:
+
+1. **Clone the Repository**:
+
+   ```bash
+
+     git clone https://github.com/thor8126/SENPIPER-TECHNOLOGIES-Assignment
+
+   ```
+
+2. **Install and run the server:**:
+
+   ```bash
+       cd SENPIPER-TECHNOLOGIES-Assignment
+       npm install
+       npm run dev
+   ```
+
+3. **Access the Chat Application**:
+
+   - Once the server is running, you can access the chat application by navigating to the URL provided.
+
+   ```
+     http://localhost:5173/
+   ```
