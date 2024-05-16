@@ -1,6 +1,8 @@
 ## Tech Stack
 
 - **React.js**
+- **Tailwind**
+- **Material UI**
 
 ## Hosted URL-
 
@@ -28,7 +30,7 @@ https://senpiper-technologies-assignment.vercel.app/
 
 3. **Access the Application**:
 
-   - Once the server is running, you can access the chat application by navigating to the URL provided.
+   - Once the server is running, you can access the application by navigating to the URL provided or directly from hosted url:
 
    ```
      http://localhost:5173/
