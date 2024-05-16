@@ -6,7 +6,7 @@ export default function RadioInput({ label, name, options, value, onChange }) {
       <p className="block text-gray-700 font-bold mb-2">{label}</p>
       <div className="flex items-center mb-2">
         {options.map((option) => (
-          <div className="flex items-center mr-4" key={option}>
+          <div className="flex items-center mr-1" key={option}>
             <Checkbox
               id={`${name}-${option.toLowerCase()}`}
               name={name}
