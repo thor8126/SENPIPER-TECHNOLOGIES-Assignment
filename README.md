@@ -26,7 +26,7 @@ https://senpiper-technologies-assignment.vercel.app/
        npm run dev
    ```
 
-3. **Access the Chat Application**:
+3. **Access the Application**:
 
    - Once the server is running, you can access the chat application by navigating to the URL provided.
 
