@@ -8,7 +8,7 @@ import Navbar from "./components/Helpers/Navbar";
 function App() {
   return (
     <Router>
-      <div className="container mx-auto py-8 ">
+      <div className="container mx-auto shadow pt-1">
         <Navbar />
         <Routes>
           <Route path="/" element={<FeedbackForm />} />

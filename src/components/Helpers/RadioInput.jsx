@@ -2,7 +2,7 @@ import Checkbox from "@mui/material/Checkbox";
 
 export default function RadioInput({ label, name, options, value, onChange }) {
   return (
-    <div className="mb-4">
+    <div className="mb-4 flex flex-col">
       <p className="block text-gray-700 font-bold mb-2">{label}</p>
       <div className="flex items-center mb-2">
         {options.map((option) => (
