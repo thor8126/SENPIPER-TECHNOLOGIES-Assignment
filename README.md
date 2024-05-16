@@ -6,7 +6,6 @@
 
 ```
 https://senpiper-technologies-assignment.vercel.app/
-
 ```
 
 ## Getting started guide for local development:
